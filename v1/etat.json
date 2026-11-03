@@ -1,8 +1,8 @@
 {
   "v": 2,
-  "maj": "2026-11-03T21:31:10.037Z",
-  "service": true,
-  "donnees": true,
+  "maj": "2026-11-03T21:52:35.151Z",
+  "service": false,
+  "donnees": false,
   "message": "Mise à jour de l’annuaire en cours. Retour vers 7 h.",
   "seuils": {
     "listeMax": 60,
