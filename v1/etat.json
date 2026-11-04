@@ -1,11 +1,11 @@
 {
   "v": 2,
-  "maj": "2026-11-03T22:26:12.048Z",
+  "maj": "2026-11-04T16:51:31.393Z",
   "service": true,
   "donnees": true,
   "message": "Mise à jour de l’annuaire en cours. Retour vers 7 h.",
   "seuils": {
-    "listeMax": 60,
+    "listeMax": 20,
     "listeMin": 15,
     "rayon": 20,
     "transpHaut": 85,
